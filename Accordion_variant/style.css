@@ -1,0 +1,16 @@
+.container {
+  width: 400px
+}
+
+.container .header {
+  line-height: 40px;
+  font-family: Helvetica;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.container .info {
+  display: none;
+  padding: 5px;
+  font-family: Arial
+}
